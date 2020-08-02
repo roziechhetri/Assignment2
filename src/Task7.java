@@ -17,7 +17,7 @@ public class Task7 {
             System.out.println("Negative");
         }
 
-        else if(num>0){
+        else if(num>0){          //try putting that statement here.
             System.out.println("Positive");
         }
 
